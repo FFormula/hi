@@ -6,6 +6,7 @@
         {
             "name": "Jevgenij Volosatov",
             "email": "fformula@gmail.com"
+        }
     ],
     "require": {
         "symfony/console": "^4.1"
